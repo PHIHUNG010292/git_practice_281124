@@ -1,2 +1,1 @@
-console.log("Hello, HungBP");
-console.log("Hello, 010292");
+console.log("Thêm tính năng A");
